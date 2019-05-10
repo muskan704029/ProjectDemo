@@ -1,0 +1,8 @@
+com\candidjava\spring\bean\User.class
+com\candidjava\spring\configuration\HibernateConfiguration.class
+com\candidjava\spring\controller\UserController.class
+com\candidjava\spring\dao\UserDaoImp.class
+com\candidjava\spring\service\UserService.class
+com\candidjava\spring\dao\UserDao.class
+com\candidjava\Application.class
+com\candidjava\spring\service\UserServiceImp.class
